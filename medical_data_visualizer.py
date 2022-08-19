@@ -1,7 +1,11 @@
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
+
+/// HERE IS EVIDENCE OF USING 
+    GIT HUB VERSION CONTROL ///
 
 # Import data
 df = pd.read_csv('medical_examination.csv')
